@@ -3,7 +3,7 @@ layout: post
 title:  vim的常用命令
 date:   2023-11-08 19:47 UTC+8
 categories: vim
-permalink: /vim-command
+permalink: /vim/command
 ---
 
 ## 第一部分：一般模式可用的光标移动、复制粘贴、搜索替换等

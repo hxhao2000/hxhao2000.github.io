@@ -6,7 +6,7 @@ categories: nginx
 tags:
     - nginx
     - load balance
-permalink: /nginx-load-balance-strategy
+permalink: /nginx/load-balance-strategy
 ---
 
 [官方文档](https://nginx.org/en/docs/http/load_balancing.html)
