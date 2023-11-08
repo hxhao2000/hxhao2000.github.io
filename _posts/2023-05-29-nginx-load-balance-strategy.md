@@ -3,9 +3,7 @@ layout: post
 title:  Nginx负载均衡策略
 date:   2023-05-29 14:20 UTC+8
 categories: nginx
-tags:
-    - nginx
-    - load balance
+tags: ["nginx", "load balance"]
 permalink: /nginx/load-balance-strategy
 ---
 

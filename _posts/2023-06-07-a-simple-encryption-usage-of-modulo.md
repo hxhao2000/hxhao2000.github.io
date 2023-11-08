@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  取模运算的一种简单应用
+title:  modulo(mod)的一种简单加密用法
 date:   2023-06-07 19:25 UTC+8
 categories: encryption
 tags: ["encryption", "modulo"]
-permalink: /encryption/a-simple-usage-of-modulo
+permalink: /encryption/a-simple-encryption-usage-of-modulo
 ---
+
 
 ## 业务场景
 

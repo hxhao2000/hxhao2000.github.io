@@ -3,6 +3,7 @@ layout: post
 title:  vim的常用命令
 date:   2023-11-08 19:47 UTC+8
 categories: vim
+tags: "vim"
 permalink: /vim/command
 ---
 
